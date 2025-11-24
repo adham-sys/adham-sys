@@ -5,7 +5,7 @@
 ### 👋 Hi, I'm **Adham Osama**
 Full-stack developer who loves building clean and fast applications.
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" />
+
 
 ---
 
